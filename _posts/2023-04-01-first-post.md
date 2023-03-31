@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "初めての投稿"
+title:  "初めての投稿"
 ---
 
 # はじめての投稿
